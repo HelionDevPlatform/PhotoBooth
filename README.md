@@ -27,9 +27,9 @@ See also
 
 This program is just glue over other great software.
 
-http://mojolicio.us/
-http://code.google.com/p/jpegcam/
-http://jquery.com/
+ * http://mojolicio.us/
+ * http://code.google.com/p/jpegcam/
+ * http://jquery.com/
 
 Licence
 -------
