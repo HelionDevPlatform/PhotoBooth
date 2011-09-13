@@ -19,7 +19,7 @@ Check the http://mojolicio.us docs for other deployment options.
 Deploying to Stackato
 ---------------------
 
-    stackato push mojo-photobooth
+    stackato push -n
 
 
 See also
