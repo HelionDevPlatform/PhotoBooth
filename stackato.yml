@@ -2,3 +2,6 @@ name: photobooth
 
 framework:
   type: perl
+
+hooks:
+  pre-running: ruby stackato-sso-workaround.rb
