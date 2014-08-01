@@ -1,3 +1,0 @@
-name: photobooth
-
-buildpack: https://github.com/ActiveState/stackato-buildpack-perl.git
