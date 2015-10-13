@@ -16,8 +16,8 @@ Point your browser to http://localhost:3000/
 Check the http://mojolicio.us docs for other deployment options. 
 
 
-Deploying to Stackato
----------------------
+Deploying to HPE Helion Stackato
+--------------------------------
 
     stackato push -n
 
